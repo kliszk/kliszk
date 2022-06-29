@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kliszk AKA Kenzie
-- 👀 I’m interested in ... Atmospheric Science
-- 🌱 I’m currently learning ... The basics of GitHub
+- 👋 Hi, I’m Kenzie
+- 👀 I’m interested in ... Atmospheric Science and Oceanography
+- 🌱 I’m currently learning ... how to analyze marine heatwaves in the LENS2 simulation
 - 💞️ I’m looking to collaborate on ... Marine Heatwave studdies
 - 📫 You can reach me by email
 
